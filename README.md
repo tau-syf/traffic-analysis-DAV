@@ -40,3 +40,9 @@ Smart-Traffic-Analysis-Dashboard/
 ├── traffic.csv           
 ├── requirements.txt      
 └── README.md
+
+**4. WHY THIS PROJECT**
+
+Traffic datasets often contain inconsistencies such as missing values, duplicate records, and irregular patterns that can affect the quality of analysis. This dashboard was developed to provide a single platform capable of handling the complete analytics workflow from preprocessing and visualization to predictive modeling without requiring users to switch between multiple tools.
+
+The emphasis of the project is not only on accurate analysis but also on usability, making advanced traffic analytics accessible through an intuitive graphical interface.

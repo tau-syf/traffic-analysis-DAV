@@ -27,3 +27,14 @@ The application automates common data preparation tasks, generates comprehensive
 * Machine learning-based traffic prediction
 * Interactive graphical user interface built for ease of use
 * Export analytical reports
+
+
+**PROJECT STRUCTURE**
+Smart-Traffic-Analysis-Dashboard/
+│
+├── dashboard.py          # Main application interface
+├── analysis.py           # Data preprocessing & analytics
+├── model.py              # Machine learning model
+├── traffic.csv           # Sample dataset
+├── requirements.txt      # Project dependencies
+└── README.md

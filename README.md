@@ -49,7 +49,7 @@ The emphasis of the project is not only on accurate analysis but also on usabili
 5. FUTURE ENHANCEMENTS
 </h2>
 Potential enhancements include:
-* Integration with live traffic APIs
+<br>* Integration with live traffic APIs</br>
 * Time-series forecasting using deep learning models
 * GIS-based traffic visualization
 * Real-time monitoring dashboard

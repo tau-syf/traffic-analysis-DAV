@@ -7,7 +7,7 @@ Smart Traffic Analysis Dashboard
 The application automates common data preparation tasks, generates comprehensive analytical reports, visualizes traffic patterns using a variety of charts, and predicts future traffic conditions using a Random Forest Regression model. It serves as an end-to-end analytical solution for understanding traffic behavior and supporting data-driven transportation planning.
 
 <h2>
-**2. KEY FEATURES**
+2. KEY FEATURES
 </h2>
 * Import traffic datasets in CSV or Excel format
 * Automated data cleaning and preprocessing
@@ -28,7 +28,7 @@ The application automates common data preparation tasks, generates comprehensive
 * Export analytical reports
 
 <h2>
-**3. PROJECT STRUCTURE**
+3. PROJECT STRUCTURE
 </h2>
 Smart-Traffic-Analysis-Dashboard/
 
@@ -39,15 +39,15 @@ Smart-Traffic-Analysis-Dashboard/
 ├── traffic.csv           
 ├── requirements.txt      
 └── README.md
-
-**4. WHY THIS PROJECT**
-
+<h2>
+4. WHY THIS PROJECT
+</h2>
 Traffic datasets often contain inconsistencies such as missing values, duplicate records, and irregular patterns that can affect the quality of analysis. This dashboard was developed to provide a single platform capable of handling the complete analytics workflow from preprocessing and visualization to predictive modeling without requiring users to switch between multiple tools.
 
 The emphasis of the project is not only on accurate analysis but also on usability, making advanced traffic analytics accessible through an intuitive graphical interface.
-
-**5. FUTURE ENHANCEMENTS**
-
+<h2>
+5. FUTURE ENHANCEMENTS
+</h2>
 Potential enhancements include:
 * Integration with live traffic APIs
 * Time-series forecasting using deep learning models

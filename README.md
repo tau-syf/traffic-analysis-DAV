@@ -50,8 +50,8 @@ The emphasis of the project is not only on accurate analysis but also on usabili
 </h2>
 Potential enhancements include:
 <br>* Integration with live traffic APIs</br>
-* Time-series forecasting using deep learning models
-* GIS-based traffic visualization
-* Real-time monitoring dashboard
-* PDF report generation
-* Multi-user authentication and cloud deployment
+<br>* Time-series forecasting using deep learning models</br>
+<br>* GIS-based traffic visualization</br>
+<br>* Real-time monitoring dashboard</br>
+<br>* PDF report generation</br>
+<br>* Multi-user authentication and cloud deployment</br>

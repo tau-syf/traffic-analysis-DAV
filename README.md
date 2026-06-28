@@ -46,3 +46,13 @@ Smart-Traffic-Analysis-Dashboard/
 Traffic datasets often contain inconsistencies such as missing values, duplicate records, and irregular patterns that can affect the quality of analysis. This dashboard was developed to provide a single platform capable of handling the complete analytics workflow from preprocessing and visualization to predictive modeling without requiring users to switch between multiple tools.
 
 The emphasis of the project is not only on accurate analysis but also on usability, making advanced traffic analytics accessible through an intuitive graphical interface.
+
+**5. FUTURE ENHANCEMENTS**
+
+Potential enhancements include:
+* Integration with live traffic APIs
+* Time-series forecasting using deep learning models
+* GIS-based traffic visualization
+* Real-time monitoring dashboard
+* PDF report generation
+* Multi-user authentication and cloud deployment

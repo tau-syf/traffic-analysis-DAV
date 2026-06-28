@@ -30,6 +30,7 @@ The application automates common data preparation tasks, generates comprehensive
 
 
 **PROJECT STRUCTURE**
+
 Smart-Traffic-Analysis-Dashboard/
 │
 ├── dashboard.py          # Main application interface

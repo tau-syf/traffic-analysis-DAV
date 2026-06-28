@@ -6,3 +6,24 @@ Smart Traffic Analysis Dashboard
 
 Smart Traffic Analysis Dashboard is a Python-based desktop application designed to simplify the analysis of traffic datasets through an interactive and intuitive interface. The project combines data preprocessing, exploratory data analysis, statistical computation, visualization, and machine learning to transform raw traffic data into meaningful insights.
 The application automates common data preparation tasks, generates comprehensive analytical reports, visualizes traffic patterns using a variety of charts, and predicts future traffic conditions using a Random Forest Regression model. It serves as an end-to-end analytical solution for understanding traffic behavior and supporting data-driven transportation planning.
+
+
+Key Features
+
+* Import traffic datasets in CSV or Excel format
+* Automated data cleaning and preprocessing
+* Missing value treatment using Forward Fill and Backward Fill techniques
+* Duplicate detection and removal
+* Descriptive statistical analysis
+* Interactive visualizations including:
+    * Line Charts
+    * Bar Charts
+    * Histograms
+    * Scatter Plots
+    * Box Plots
+    * Heatmaps
+    * Pie Charts
+* Correlation analysis
+* Machine learning-based traffic prediction
+* Interactive graphical user interface built for ease of use
+* Export analytical reports
